@@ -1,0 +1,9 @@
+table { background: gray; }
+td {
+  padding: .5em;
+  background: white;
+}
+.deleteRow {
+  color: red;
+  cursor: pointer;
+}
